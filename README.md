@@ -7,9 +7,9 @@ Los Angeles chapter led an interesting project involving 125 global volunteers t
 ---
 
 My contribution:
-1. https://dagshub.com/adhikarinarayan/LosAngelesUSAChapter_LegalResearchandPrediction/src/main/CaseLawAI_streamlit
-2. https://dagshub.com/adhikarinarayan/LosAngelesUSAChapter_LegalResearchandPrediction/src/main/CaselawAI
-
+1. https://dagshub.com/adhikarinarayan/LosAngelesUSAChapter_LegalResearchandPrediction/src/main/CaselawAI
+   
+---
 
 Certificate:
 ![ig](https://github.com/adhikarinarayan/omdena_lawcaseai/blob/main/Omdena%20Certificate.png?raw=true)
